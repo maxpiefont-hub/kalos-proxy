@@ -1,0 +1,12 @@
+{
+  "name": "kalos-proxy",
+  "version": "1.0.0",
+  "description": "Proxy IA partagé pour Kalos (clé Anthropic côté serveur)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
